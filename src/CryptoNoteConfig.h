@@ -103,8 +103,8 @@ namespace parameters {
 
 } // parameters
 
-#define CRYPTONOTE_NAME                                 "alloy"
-#define CRYPTONOTE_GENESIS_TX                           "011e01ff00018080a0fef0fa97a43f029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101d201f0ee231168072d806ecd2c733bb79286c398aa24d9b0d06d7bfb89d2869d"
+#define CRYPTONOTE_NAME                                 "Dirham Zayed"
+#define CRYPTONOTE_GENESIS_TX                           ""
 
 #define TRANSACTION_VERSION_1                           1
 #define TRANSACTION_VERSION_2                           2
@@ -142,10 +142,9 @@ namespace parameters {
 
 
 const std::initializer_list<const char*> SEED_NODES {
-   "34.197.53.233:1810",
-  "89.18.26.10:1810",
-  "89.18.27.201:1810",
-  "195.201.35.225:1810"
+ "173.249.23.203",
+"207.180.194.56",
+
   
 };
 
