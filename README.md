@@ -30,4 +30,4 @@ Soon!!!
 
 # License
 
-Alloy is licensed under the "MIT License", see [LICENSE](LICENSE) for more info.
+Dirham Zayed is licensed under the "MIT License", see [LICENSE](LICENSE) for more info.
